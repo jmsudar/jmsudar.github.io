@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+h1 {
+  display: flex;
+  margin: auto;
+  width: 100%;
+  font-size: 2em;
+  text-align: center;
+}

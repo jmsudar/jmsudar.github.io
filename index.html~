@@ -9,7 +9,7 @@
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
-	<link type="text/css" rel="stylesheet" href="css/jquery.dropdown.css" />
+	<link type="text/css" rel="stylesheet" href="css/jquery.dropdown.min.css" />
 	<script type="text/javascript" src="js/jquery.dropdown.min.js"></script>
         <style>
 		html{font:normal normal 105%/1.7 sans-serif}

@@ -73,15 +73,15 @@
 	<div class="grid">
 	<div class="unit span-grid">
 	<div class="head">        
-		<h2 style="float:left;"><a href="#">jmsudar.com</a></h2>
+		<h2 style="float:left;"><a href="index.html">jmsudar.com</a></h2>
 		<h2 style="float:right;"><a href="#" id="fullSize" data-jq-dropdown="#jq-dropdown-1">I spend my time <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+ALGwQ3Ek7vKQ0AAAB4SURBVDjLrZLBDcAwCAPB2yYDsS59tVJREgwtPyT7AAt1d7lrzvk0ZqZC1M6DlWDVZ9DY4wQ5wTOPjjHSzWIszDWo5shARUTU3WkxW2amqHwAC31F8Qd8+W5f4dGLTNCBbr+iAt9pUTWwGnSN2WB0tmKuQTVHNv8L8A5OaAYPm2gAAAAASUVORK5CYII=" alt="down"></a>
 		<a href="#" id="mobileSize" data-jq-dropdown="#jq-dropdown-1"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAASCAYAAABfJS4tAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB+ALGwQ2GLch8VIAAAArSURBVDjLY8zMzPzPQAPAxEAjMPQMZvz///9oUECCYjS5jSa30eQ2nAwGAKpcDMj32s+fAAAAAElFTkSuQmCC" alt="hamburger"></a></h2>
 	</div>
 	<div class="unit span-grid">
-	<div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-tip jq-dropdown-relative">
+	<div id="jq-dropdown-1" class="jq-dropdown jq-dropdown-tip jq-dropdown-anchor-right">
     		<ul class="jq-dropdown-menu">
         		<li><a href="http://jmsudar.blogspot.com/">Writing</a></li>
-        		<li><a href="#">Designing</a></li>
+        		<li><a href="webpages.html">Designing</a></li>
         		<li><a href="#">Rowing</a></li>
 			<li><a href="http://jmsudar.imgur.com/">Wargaming</a></li>
 		</ul>

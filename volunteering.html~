@@ -3,14 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Web Design - Joe Sudar</title>
+        <title>Volunteering - Joe Sudar</title>
         <meta name="description" content="">
         <meta name=viewport content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
 
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!--menus inspired by labs.abeautifulsite.net/jquery-dropdown-->
         <!--styles inspired by https://varvy.com/pagespeed/wicked-fast.html-->
-        <style>
+	<style>
 		html{font:normal normal 105%/1.7 sans-serif}
 		a{color:#696969; !important}
 		.container{max-width:1120px;margin:0 auto;padding:0 30px;padding:0 1.5rem}
@@ -85,14 +85,10 @@
 			<li><a href="http://jmsudar.imgur.com/">Wargaming</a></li>
 		</ul>
 	</div>
-		<h1><a href="http://bigtimebrewery.com" target="_blank">Big Time Brewery</a></h1>
-		<p>While working through exercises for a web development class with the UW, the bartender and owner asked if I wanted to take the rebuild of the Big Time's website as a project. I accepted, and brought the site into compliance with W3C standards and mobile-readiness. In addition, I helped them develop the ability to place keg orders into a web form, and disseminate new tap assignments through a easy to access interface. The goal with this project was to create clean, easy-to-modify code, as I intended to turn it over to the business owners upon completion. They currently maintain the site, while I offer occasional advice and help as needed. The site is largely built on Bootstrap due to its simplicity in maintenance for the site's non-technical audience.</p>
-		<h3><a href="https://web.archive.org/web/20160419233518/http://bigtimebrewery.com/" target="_blank" style="float:right;">Old Design</a></h3>
-	</div>
-	<div class="unit span-grid">
-		<h1><a href="http://cougarcrew.com" target="_blank">WSU Rowing</a></h1>
-		<p>My first web project (and first tech project) came with my assignment as student webmaster for the WSU Men's Crew Team. This gave me the chance to learn web design and cut my teeth as a website administrator. After gaining a few years experience, I decided to rebuild the site and bring it up to modern standards. I started with HTML5 Boilerplate and used Bootstrap on top of that. I continue to volunteer with WSU as the alumni webmaster, and intend to continue to build and develop this site as I learn new technology and see new ways to improve it.</p>
-		<h3><a href="https://web.archive.org/web/20161002024553/http://cougarcrew.com/" target="_blank" style="float:right;">Old Design</a></h3>
+		<img src="" class="intro" alt="portrait">
+		<p>Seattle is fortunate to have a strong community effort towards volunteer work. As the Emerald City, many people pitch in to keep everything looking green and I am excited to cast my effort to the cause.</p>
+		<p>My first job was in social work with the chronically mentally ill, and through it I was introduced to <a href="uwkc.org" target="_blank">United Way of King County</a> through which you can find many opportunities to get active across a vareity of causes. Numerous other agencies such as Earth Corps make use of this opportunity to get the word out about their causes.</p>
+		<p>Pictured to the right is my latest volunteering opportunity: fall planting in Discovery Park, reclaiming a monoculture of Himalayan Blackberry with healthy, native trees and groundcover.</p>
   	</div>
 	</div>
 	</div>
